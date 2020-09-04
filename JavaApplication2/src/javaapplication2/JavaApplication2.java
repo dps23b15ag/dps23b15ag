@@ -17,6 +17,9 @@ public class JavaApplication2 {
     public static void main(String[] args) {
         // TODO code application logic here
         		System.out.println("Hello, esta es una prueba 04/sep/2020 15:40!");
+        System.out.println("Hello, esta es una prueba 04/sep/2020 15:41!");
+        System.out.println("Hello, esta es una prueba 04/sep/2020 15:42!");
+        System.out.println("Hello, esta es una prueba 04/sep/2020 15:43!");
 
     }
     
